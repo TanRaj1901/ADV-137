@@ -1,0 +1,9 @@
+#number_of_objects{
+    display: none;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+    margin-top: 220px;
+}
